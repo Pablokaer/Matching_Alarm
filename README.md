@@ -14,3 +14,6 @@ This small project aims to make it easier to set alarms based on different time 
 1. Select the first region and set the desired time.  
 2. Choose a second region to calculate the corresponding alarm time.  
 3. Wait for the countdown and receive the alert at the correct time.  
+
+## Author
+[Pablo Carvalho](https://github.com/seu-github)
